@@ -215,7 +215,7 @@ def main():
  
 if __name__ == "__main__":
     main()
-    # Sistema de Biblioteca - adiciona listagem, busca e ordenação
+# Sistema de Biblioteca - adiciona listagem, busca e ordenação
  
 livros = []
  
@@ -357,4 +357,3 @@ def main():
  
 if __name__ == "__main__":
     main()
-    
